@@ -15,9 +15,9 @@ Quero construir uma carreira sólida e equilibrada, contribuir com soluções ba
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=gustavorivellino&show_icons=true&theme=radical" height="200" style="margin: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorivellino&layout=compact&theme=radical" height="200" style="margin: 10px;">
-
+</div>
   <br><br>
-
+<div align="center">
   <!-- Icons -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" style="margin: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" style="margin: 10px;">
